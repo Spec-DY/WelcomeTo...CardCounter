@@ -1,6 +1,8 @@
 # Card Counter for Welcome to... boardgame
 
-Please open: dist/counter/counter.exe
+Click "Release" on the right side
+Download .rar file and unzip
+Open file: dist/counter/counter.exe
 
 Please click the corresponding number on each card.
 On the left side of the Card Table is the card number,
