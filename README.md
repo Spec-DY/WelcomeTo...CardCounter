@@ -1,9 +1,11 @@
 # Card Counter for Welcome to... BoardGame
 
-Click "Release" on the right side
-Download .rar file and unzip
-Open file: dist/counter/counter.exe
+## Setup
+Click "Release" on the right side<br>
+Download .rar file and unzip<br>
+Open file: dist/counter/counter.exe<br>
 
+## Manual
 Please click the corresponding number on each card.
 On the left side of the Card Table is the card number,
 while on the right side are the cards count corresponding to the card numbers on the left.
