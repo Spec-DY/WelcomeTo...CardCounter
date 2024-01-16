@@ -1,5 +1,8 @@
 # Card Counter for Welcome to... BoardGame
 
+## Description
+This mini tool helps manually count how many cards are left during the game.
+
 ## Setup
 Click "Release" on the right side<br>
 Download .rar file and unzip<br>
